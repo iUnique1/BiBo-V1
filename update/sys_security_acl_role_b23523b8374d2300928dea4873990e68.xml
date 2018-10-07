@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-07 12:15:54</sys_created_on>
+        <sys_id>b23523b8374d2300928dea4873990e68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_282088_bibo_v1_bibo.x_282088_bibo_v1.bibo_user</sys_name>
+        <sys_package display_value="BiBo V1" source="x_282088_bibo_v1">b040e7f0374d2300928dea4873990ef8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BiBo V1">b040e7f0374d2300928dea4873990ef8</sys_scope>
+        <sys_security_acl display_value="x_282088_bibo_v1_bibo">7a3523b8374d2300928dea4873990e65</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b23523b8374d2300928dea4873990e68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-07 12:15:54</sys_updated_on>
+        <sys_user_role display_value="x_282088_bibo_v1.bibo_user" name="x_282088_bibo_v1.bibo_user">a63563f4374d2300928dea4873990edb</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="BiBo" max_length="40" name="x_282088_bibo_v1_bibo" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="true" label="Verfügbar" max_length="40" name="status" type="boolean"/>
+        <element label="Titel" max_length="40" name="titel" type="string"/>
+        <element choice="1" default="buch" label="Typ" max_length="40" name="typ" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Buch" sequence="0" value="buch"/>
+                <element inactive_on_update="false" label="CD" sequence="1" value="cd"/>
+                <element inactive_on_update="false" label="Zeitschrift" sequence="2" value="zeitschrift"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_1" type="journal"/>
+        <element label="Verliehen an" max_length="32" name="verliehen_an" reference="sys_user" type="reference"/>
+        <element label="Verliehen bis" max_length="40" name="verliehen_bis" type="due_date"/>
+        <index name="index">
+            <element name="verliehen_an"/>
+        </index>
+    </element>
+</database>

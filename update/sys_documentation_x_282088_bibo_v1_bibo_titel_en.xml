@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="titel" label="Titel" language="en" table="x_282088_bibo_v1_bibo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>titel</element>
+            <help/>
+            <hint/>
+            <label>Titel</label>
+            <language>en</language>
+            <name>x_282088_bibo_v1_bibo</name>
+            <plural>Titels</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-07 12:18:44</sys_created_on>
+            <sys_id>10e52bb8374d2300928dea4873990e7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Titel</sys_name>
+            <sys_package display_value="BiBo V1" source="x_282088_bibo_v1">b040e7f0374d2300928dea4873990ef8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BiBo V1">b040e7f0374d2300928dea4873990ef8</sys_scope>
+            <sys_update_name>sys_documentation_x_282088_bibo_v1_bibo_titel_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-07 12:18:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
