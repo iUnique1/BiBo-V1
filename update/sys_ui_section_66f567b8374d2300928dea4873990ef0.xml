@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-07 12:23:31</sys_created_on>
-            <sys_id>52f66bf8374d2300928dea4873990e21</sys_id>
+            <sys_created_on>2018-10-07 12:29:50</sys_created_on>
+            <sys_id>fe68ab3c374d2300928dea4873990e14</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_282088_bibo_v1_bibo" sys_domain="global" view="Default view">66f567b8374d2300928dea4873990ef0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-07 12:23:31</sys_updated_on>
+            <sys_updated_on>2018-10-07 12:29:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,27 @@
             <element>titel</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-07 12:23:31</sys_created_on>
-            <sys_id>d2f66bf8374d2300928dea4873990e21</sys_id>
+            <sys_created_on>2018-10-07 12:29:50</sys_created_on>
+            <sys_id>7268ab3c374d2300928dea4873990e15</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_282088_bibo_v1_bibo" sys_domain="global" view="Default view">66f567b8374d2300928dea4873990ef0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-07 12:23:31</sys_updated_on>
+            <sys_updated_on>2018-10-07 12:29:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_journal_1</element>
+            <element>u_string_1</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-07 12:23:31</sys_created_on>
-            <sys_id>56f66bf8374d2300928dea4873990e21</sys_id>
+            <sys_created_on>2018-10-07 12:29:50</sys_created_on>
+            <sys_id>f268ab3c374d2300928dea4873990e15</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_282088_bibo_v1_bibo" sys_domain="global" view="Default view">66f567b8374d2300928dea4873990ef0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-07 12:23:31</sys_updated_on>
+            <sys_updated_on>2018-10-07 12:29:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-07 12:23:31</sys_created_on>
-            <sys_id>d6f66bf8374d2300928dea4873990e21</sys_id>
+            <sys_created_on>2018-10-07 12:29:50</sys_created_on>
+            <sys_id>7668ab3c374d2300928dea4873990e15</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_282088_bibo_v1_bibo" sys_domain="global" view="Default view">66f567b8374d2300928dea4873990ef0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-07 12:23:31</sys_updated_on>
+            <sys_updated_on>2018-10-07 12:29:50</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>status</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-07 12:23:31</sys_created_on>
-            <sys_id>5af66bf8374d2300928dea4873990e21</sys_id>
+            <sys_created_on>2018-10-07 12:29:50</sys_created_on>
+            <sys_id>f668ab3c374d2300928dea4873990e15</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_282088_bibo_v1_bibo" sys_domain="global" view="Default view">66f567b8374d2300928dea4873990ef0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-07 12:23:31</sys_updated_on>
+            <sys_updated_on>2018-10-07 12:29:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>typ</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-07 12:23:31</sys_created_on>
-            <sys_id>daf66bf8374d2300928dea4873990e21</sys_id>
+            <sys_created_on>2018-10-07 12:29:50</sys_created_on>
+            <sys_id>7a68ab3c374d2300928dea4873990e15</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_282088_bibo_v1_bibo" sys_domain="global" view="Default view">66f567b8374d2300928dea4873990ef0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-07 12:23:31</sys_updated_on>
+            <sys_updated_on>2018-10-07 12:29:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>verliehen_bis</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-07 12:23:31</sys_created_on>
-            <sys_id>5ef66bf8374d2300928dea4873990e21</sys_id>
+            <sys_created_on>2018-10-07 12:29:50</sys_created_on>
+            <sys_id>fa68ab3c374d2300928dea4873990e15</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_282088_bibo_v1_bibo" sys_domain="global" view="Default view">66f567b8374d2300928dea4873990ef0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-07 12:23:31</sys_updated_on>
+            <sys_updated_on>2018-10-07 12:29:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>verliehen_an</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-07 12:23:31</sys_created_on>
-            <sys_id>def66bf8374d2300928dea4873990e21</sys_id>
+            <sys_created_on>2018-10-07 12:29:50</sys_created_on>
+            <sys_id>7e68ab3c374d2300928dea4873990e15</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_282088_bibo_v1_bibo" sys_domain="global" view="Default view">66f567b8374d2300928dea4873990ef0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-07 12:23:31</sys_updated_on>
+            <sys_updated_on>2018-10-07 12:29:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
