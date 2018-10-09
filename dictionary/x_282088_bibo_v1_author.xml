@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Author" max_length="40" name="x_282088_bibo_v1_author" type="collection">
+        <element display="true" label="Full Name" max_length="80" name="full_name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Geburtsdatum" max_length="40" name="u_glide_date_4" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vorname" max_length="40" name="u_string_3" type="string"/>
+    </element>
+</database>

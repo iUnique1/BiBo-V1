@@ -10,10 +10,16 @@
                 <element inactive_on_update="false" label="Zeitschrift" sequence="2" value="zeitschrift"/>
             </choice>
         </element>
+        <element label="Ausleihen" max_length="40" name="u_ausleihen" type="boolean"/>
+        <element label="Author" mandatory="true" max_length="32" name="u_author" reference="x_282088_bibo_v1_author" type="reference"/>
+        <element label="New Date" max_length="40" name="u_date" type="glide_date"/>
+        <element label="Verliehen bis" max_length="40" name="u_duedate" type="due_date"/>
         <element attributes="edge_encryption_enabled=true" label="Beschreibung" mandatory="true" max_length="2500" name="u_string_1" type="string"/>
         <element label="Verliehen an" max_length="32" name="verliehen_an" reference="sys_user" type="reference"/>
-        <element label="Verliehen bis" max_length="40" name="verliehen_bis" type="due_date"/>
         <index name="index">
+            <element name="u_author"/>
+        </index>
+        <index name="index2">
             <element name="verliehen_an"/>
         </index>
     </element>

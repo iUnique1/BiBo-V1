@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_ausleihen</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Ausleihen</name>
+        <order/>
+        <script><![CDATA[function onChange (control , oldValue , newValue , isLoading ) {
+	if(isLoading) { return; }
+	var str = '';
+	if (g_form.getValue('u_ausleihen')=='true'){
+		g_form.setValue('verliehen_an',g_user.userID);
+		g_form.setValue('status', false);
+		str= 'Medium ausgeliehen';
+	}
+	else if (g_form.getValue('u_ausleihen')=='false') {
+		g_form.clearValue('verliehen_an');
+		g_form.setValue('status', true);
+		g_form.clearValue('u_duedate');	
+		str = 'Medium zurückgegeben';
+	}
+	oldValue=newValue;
+	g_form.save();
+	g_form.addInfoMessage(str);
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-07 17:16:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>39d82c0937016300928dea4873990e6f</sys_id>
+        <sys_mod_count>70</sys_mod_count>
+        <sys_name>Ausleihen</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BiBo V1" source="x_282088_bibo_v1">b040e7f0374d2300928dea4873990ef8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BiBo V1">b040e7f0374d2300928dea4873990ef8</sys_scope>
+        <sys_update_name>sys_script_client_39d82c0937016300928dea4873990e6f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-09 11:03:59</sys_updated_on>
+        <table>x_282088_bibo_v1_bibo</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

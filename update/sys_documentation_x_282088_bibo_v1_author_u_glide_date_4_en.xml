@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="verliehen_bis" label="Verliehen bis" language="en" table="x_282088_bibo_v1_bibo">
+    <sys_documentation element="u_glide_date_4" label="Geburtsdatum" language="en" table="x_282088_bibo_v1_author">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>verliehen_bis</element>
+            <element>u_glide_date_4</element>
             <help/>
             <hint/>
-            <label>Verliehen bis</label>
+            <label>Geburtsdatum</label>
             <language>en</language>
-            <name>x_282088_bibo_v1_bibo</name>
-            <plural>Verliehen bis</plural>
+            <name>x_282088_bibo_v1_author</name>
+            <plural>Geburtsdatums</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-07 12:18:44</sys_created_on>
-            <sys_id>14e52bb8374d2300928dea4873990e7a</sys_id>
+            <sys_created_on>2018-10-07 12:42:04</sys_created_on>
+            <sys_id>563b2bbc374d2300928dea4873990e7d</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Verliehen bis</sys_name>
+            <sys_name>Geburtsdatum</sys_name>
             <sys_package display_value="BiBo V1" source="x_282088_bibo_v1">b040e7f0374d2300928dea4873990ef8</sys_package>
             <sys_policy/>
             <sys_scope display_value="BiBo V1">b040e7f0374d2300928dea4873990ef8</sys_scope>
-            <sys_update_name>sys_documentation_x_282088_bibo_v1_bibo_verliehen_bis_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_282088_bibo_v1_author_u_glide_date_4_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-07 12:18:44</sys_updated_on>
+            <sys_updated_on>2018-10-07 12:42:04</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
