@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_search_facet">
+    <sp_search_facet action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <field>typ</field>
+        <mapped_facet>false</mapped_facet>
+        <name>Typ</name>
+        <order>100</order>
+        <search_source display_value="Medien">d217985a37c12300928dea4873990ef4</search_source>
+        <selection_type>single</selection_type>
+        <sort>asc</sort>
+        <sys_class_name>sp_search_facet</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-11 13:34:55</sys_created_on>
+        <sys_id>f47ddc9e37c12300928dea4873990e65</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Typ</sys_name>
+        <sys_package display_value="BiBo V1" source="x_282088_bibo_v1">b040e7f0374d2300928dea4873990ef8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BiBo V1">b040e7f0374d2300928dea4873990ef8</sys_scope>
+        <sys_update_name>sp_search_facet_f47ddc9e37c12300928dea4873990e65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-11 14:19:58</sys_updated_on>
+        <table>x_282088_bibo_v1_bibo</table>
+    </sp_search_facet>
+    <sys_translated_text action="delete_multiple" query="documentkey=f47ddc9e37c12300928dea4873990e65"/>
+</record_update>

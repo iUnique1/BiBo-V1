@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>bibo_index</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-11 09:35:49</sys_created_on>
+        <sys_id>64f627c637412300928dea4873990e72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bibo_index</sys_name>
+        <sys_package display_value="BiBo V1" source="x_282088_bibo_v1">b040e7f0374d2300928dea4873990ef8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BiBo V1">b040e7f0374d2300928dea4873990ef8</sys_scope>
+        <sys_update_name>sp_page_64f627c637412300928dea4873990e72</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-11 09:35:49</sys_updated_on>
+        <title>Bibo</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=64f627c637412300928dea4873990e72"/>
+</record_update>

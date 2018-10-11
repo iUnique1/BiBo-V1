@@ -38,7 +38,7 @@ current.u_duedate.setValue(loandate.getValue());]]></script>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>667eeb4537c56300928dea4873990e3e</sys_id>
-        <sys_mod_count>19</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_name>Set due date</sys_name>
         <sys_overrides/>
         <sys_package display_value="BiBo V1" source="x_282088_bibo_v1">b040e7f0374d2300928dea4873990ef8</sys_package>
@@ -46,9 +46,9 @@ current.u_duedate.setValue(loandate.getValue());]]></script>
         <sys_scope display_value="BiBo V1">b040e7f0374d2300928dea4873990ef8</sys_scope>
         <sys_update_name>sys_script_667eeb4537c56300928dea4873990e3e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-08 08:39:38</sys_updated_on>
+        <sys_updated_on>2018-10-11 15:59:32</sys_updated_on>
         <template/>
-        <when>before</when>
+        <when>before_display</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=667eeb4537c56300928dea4873990e3e"/>
 </record_update>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id>333</id>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">ea27fc9237452300928dea4873990e8c</sp_column>
+        <sp_widget display_value="Typeahead Search">fa20ec02cb31020000f8d856634c9ce9</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-11 14:45:46</sys_created_on>
+        <sys_id>78ede01e37052300928dea4873990ea9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Nach Authoren suchen</sys_name>
+        <sys_package display_value="BiBo V1" source="x_282088_bibo_v1">b040e7f0374d2300928dea4873990ef8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BiBo V1">b040e7f0374d2300928dea4873990ef8</sys_scope>
+        <sys_update_name>sp_instance_78ede01e37052300928dea4873990ea9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-11 15:26:21</sys_updated_on>
+        <title>Nach Authoren suchen</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=78ede01e37052300928dea4873990ea9"/>
+</record_update>

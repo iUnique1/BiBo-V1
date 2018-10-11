@@ -2,20 +2,20 @@
     <sys_ui_policy_action action="INSERT_OR_UPDATE">
         <cleared>false</cleared>
         <disabled>ignore</disabled>
-        <field>verliehen_an</field>
+        <field>u_duedate</field>
         <mandatory>ignore</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-09 10:54:51</sys_created_on>
-        <sys_id>30d5a9693705a300928dea4873990eb8</sys_id>
+        <sys_created_on>2018-10-11 15:53:04</sys_created_on>
+        <sys_id>543d34d637452300928dea4873990ea4</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>verliehen_an</sys_name>
+        <sys_name>u_duedate</sys_name>
         <sys_package display_value="BiBo V1" source="x_282088_bibo_v1">b040e7f0374d2300928dea4873990ef8</sys_package>
         <sys_policy/>
         <sys_scope display_value="BiBo V1">b040e7f0374d2300928dea4873990ef8</sys_scope>
-        <sys_update_name>sys_ui_policy_action_30d5a9693705a300928dea4873990eb8</sys_update_name>
+        <sys_update_name>sys_ui_policy_action_543d34d637452300928dea4873990ea4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-09 10:54:51</sys_updated_on>
+        <sys_updated_on>2018-10-11 15:53:04</sys_updated_on>
         <table>x_282088_bibo_v1_bibo</table>
         <ui_policy display_value="Hide Verliehen an_bis">6da529693705a300928dea4873990e5e</ui_policy>
         <visible>false</visible>

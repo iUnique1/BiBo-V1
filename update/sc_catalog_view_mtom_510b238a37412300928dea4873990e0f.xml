@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Bibo_cat">5dfa238a37412300928dea4873990e2d</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-11 09:53:37</sys_created_on>
+        <sys_id>510b238a37412300928dea4873990e0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bibo_cat.catalog_bibo_cat</sys_name>
+        <sys_package display_value="BiBo V1" source="x_282088_bibo_v1">b040e7f0374d2300928dea4873990ef8</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_bibo_cat">d50b238a37412300928dea4873990e0e</sys_portal_page>
+        <sys_scope display_value="BiBo V1">b040e7f0374d2300928dea4873990ef8</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_510b238a37412300928dea4873990e0f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-11 09:53:37</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

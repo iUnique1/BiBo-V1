@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="BiBo" max_length="40" name="x_282088_bibo_v1_bibo" type="collection">
+    <element label="BiBo" max_length="40" name="x_282088_bibo_v1_bibo" text_index="true" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element default="true" label="Verfügbar" max_length="40" name="status" type="boolean"/>
         <element label="Titel" mandatory="true" max_length="40" name="titel" type="string"/>
         <element choice="1" default="buch" label="Typ" mandatory="true" max_length="40" name="typ" type="choice">
             <choice>
@@ -12,7 +11,6 @@
         </element>
         <element label="Ausleihen" max_length="40" name="u_ausleihen" type="boolean"/>
         <element label="Author" mandatory="true" max_length="32" name="u_author" reference="x_282088_bibo_v1_author" type="reference"/>
-        <element label="New Date" max_length="40" name="u_date" type="glide_date"/>
         <element label="Verliehen bis" max_length="40" name="u_duedate" type="due_date"/>
         <element attributes="edge_encryption_enabled=true" label="Beschreibung" mandatory="true" max_length="2500" name="u_string_1" type="string"/>
         <element label="Verliehen an" max_length="32" name="verliehen_an" reference="sys_user" type="reference"/>
